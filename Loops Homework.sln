@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Numbers Not Divisible by 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Min, Max, Sum and Average of N Numbers", "3.Min, Max, Sum and Average of N Numbers\3.Min, Max, Sum and Average of N Numbers.csproj", "{5B1FE3B4-B820-4F47-AA28-BC3107755A74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Print a Deck of 52 Cards", "4.Print a Deck of 52 Cards\4.Print a Deck of 52 Cards.csproj", "{F68283C0-3F4D-4017-820A-EE563904B037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{5B1FE3B4-B820-4F47-AA28-BC3107755A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1FE3B4-B820-4F47-AA28-BC3107755A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1FE3B4-B820-4F47-AA28-BC3107755A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68283C0-3F4D-4017-820A-EE563904B037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68283C0-3F4D-4017-820A-EE563904B037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68283C0-3F4D-4017-820A-EE563904B037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68283C0-3F4D-4017-820A-EE563904B037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
